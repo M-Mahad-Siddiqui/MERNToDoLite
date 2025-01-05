@@ -1,0 +1,11 @@
+{
+  "name": "merntodolite",
+  "version": "1.0.0",
+  "description": "Mern Todo App with user Authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahad Siddiqui",
+  "license": "ISC"
+}
